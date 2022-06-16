@@ -14,7 +14,7 @@ function Todo({ todo, index, markTodo, removeTodo }) {
           ✓ Done
         </Button>{" "}
         <Button variant="outline-danger" onClick={() => removeTodo(index)}>
-          ✕ Delete
+          ✕ Delet
         </Button>
       </div>
     </div>
